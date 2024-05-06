@@ -1,0 +1,5 @@
+converting coord
+
+adding column to database (converted_coords)
+
+implement brute force algorithm that will tell the shortest perimeter (obwód). Make permutations without duplicates. It would be a problem if there will be lots of points.
